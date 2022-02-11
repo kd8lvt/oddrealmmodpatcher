@@ -8,7 +8,7 @@ This is NOT a mod _loader_ - the game loads mods on it's own, as long as you're 
 
 Q: How do I make it work?
 
-A:
+A:  
     1) Download [NodeJS](https://nodejs.org) and [The current release](https://github.com/kd8lvt/oddrealmmodpatcher/releases)  
     2) Install NodeJS.
     3) Extract the release Zip to it's own folder  
