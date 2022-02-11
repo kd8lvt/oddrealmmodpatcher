@@ -45,5 +45,3 @@ A: Check out the example mods in the examples directory. There isn't much by way
     1) ORMP already adds in the vanilla data - start with a clean json file.
     
     2) Removal of data is not supported, and probably never will be. If you absolutely must remove a value, replace it with `null`
-    
-    3) ~~Items are added in arrays that correspond to their category - you have to adhere to this or your data will NOT be loaded by the game.~~ This has since been changed.
