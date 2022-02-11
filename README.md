@@ -18,7 +18,7 @@ A:
     7) Copy the gde_data.txt file from OddRealm into "original_game_data"  
     8) Copy your mods into "mods" - they should be in their own folders, and not in zip files.  
     9) Run `node index`  
-    10) Copy the newly-generated "gde_data_mod.txt" to your OddRealm folder.  
+    10) Copy the newly-generated "gde_data_mod.txt" to your OddRealm folder. Do NOT rename it  
 
 Q: The game is getting stuck when I try to load mods!
 
