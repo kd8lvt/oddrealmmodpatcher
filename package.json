@@ -1,0 +1,25 @@
+{
+  "name": "oddrealmmodpatcher",
+  "version": "1.0.0",
+  "description": "OddRealmModPatcher (or ORMP) is a game-data patcher for the game [Odd Realm](https://oddrealmgame.com), allowing users to easily create their own \"gde_data_mod.txt\" documents to load custom items and furniture into the game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kd8lvt/oddrealmmodpatcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kd8lvt/oddrealmmodpatcher/issues"
+  },
+  "homepage": "https://github.com/kd8lvt/oddrealmmodpatcher#readme",
+  "dependencies": {
+    "fast-json-patch": "^3.1.0",
+    "walkdir": "^0.4.1"
+  },
+  "type": "module"
+}
