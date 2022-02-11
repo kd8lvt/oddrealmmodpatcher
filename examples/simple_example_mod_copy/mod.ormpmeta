@@ -1,0 +1,8 @@
+{
+    "id": "kd8lvt.simplexamplemod",
+    "name": "Simple Example Mod",
+    "version": "1.0.0a",
+    "authors": ["kd8lvt"],
+    "filesToLoad": ["mod.json"],
+    "loadAfter": []
+}
