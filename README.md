@@ -10,7 +10,7 @@ Q: How do I make it work?
 
 A:  
     1) Download [NodeJS](https://nodejs.org) and [The current release](https://github.com/kd8lvt/oddrealmmodpatcher/releases)  
-    2) Install NodeJS.
+    2) Install NodeJS.  
     3) Extract the release Zip to it's own folder  
     4) Open your Shell of choice in the source folder  
     5) Run `npm install`  
