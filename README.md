@@ -1,6 +1,6 @@
 # OddRealmModPatcher
 
-OddRealmModPatcher (or ORMP) is a game-data patcher for the game [https://oddrealmgame.com](Odd Realm), allowing users to easily create their own gde_data.txt documents to load custom items and furniture into the game.
+OddRealmModPatcher (or ORMP) is a game-data patcher for the game [Odd Realm](https://oddrealmgame.com), allowing users to easily create their own gde_data.txt documents to load custom items and furniture into the game.
 
 This is NOT a mod _loader_ - the game loads mods on it's own, as long as you're on version 11 (as of Feb. 10th, 2022 that's the beta branch)
 
