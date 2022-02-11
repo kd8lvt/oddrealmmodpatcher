@@ -14,10 +14,11 @@ A:
     3) Extract the release Zip to it's own folder  
     4) Open your Shell of choice in the source folder  
     5) Run `npm install`  
-    6) Copy the gde_data.txt file from OddRealm into "original_game_data"  
-    7) Copy your mods into "mods" - they should be in their own folders, and not in zip files.  
-    8) Run `node index`  
-    9) Copy the newly-generated "gde_data_mod.txt" to your OddRealm folder.  
+    6) Create two folders in the folder where you extracted ORMP - one named "mods" and another named "original_game_data"  
+    7) Copy the gde_data.txt file from OddRealm into "original_game_data"  
+    8) Copy your mods into "mods" - they should be in their own folders, and not in zip files.  
+    9) Run `node index`  
+    10) Copy the newly-generated "gde_data_mod.txt" to your OddRealm folder.  
 
 Q: The game is getting stuck when I try to load mods!
 
