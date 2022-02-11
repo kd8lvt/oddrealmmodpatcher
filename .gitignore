@@ -1,3 +1,4 @@
 node_modules
-mods
+mods/*/
 gde*
+*.code-workspace

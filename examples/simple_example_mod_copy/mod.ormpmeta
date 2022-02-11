@@ -1,7 +1,8 @@
 {
-    "id": "kd8lvt.simplexamplemod",
-    "name": "Simple Example Mod",
+    "id": "kd8lvt.simpleexamplemod2",
+    "name": "Simple Example Mod 2 Electric Boogaloo : 00002",
     "version": "1.0.0a",
+    "rangeId": "00001",
     "authors": ["kd8lvt"],
     "filesToLoad": ["mod.json"],
     "loadAfter": []
