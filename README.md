@@ -44,4 +44,4 @@ A: Check out the example mods in the examples directory. There isn't much by way
     
     1) ORMP already adds in the vanilla data - start with a clean json file.
     
-    2) Removal of data is not supported, and probably never will be. If you absolutely must remove a value, replace it with `null`
+    2) Removal of data is not supported, and probably never will be due to how fast-json-patcher works. If you absolutely must remove a value, try to replace it with `null`
